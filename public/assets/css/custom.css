@@ -1,0 +1,121 @@
+div#main_content {
+    min-height: 500px;
+}
+.bg-pink-grediant {
+    background: linear-gradient(173.91deg, #981575 4.82%, #E22C5E 100%);
+}
+.btn-primary {
+    background: linear-gradient(173.91deg, #981575 4.82%, #E22C5E 100%);
+    border-color: #981575 !important;
+}
+
+form .row{
+    margin-top: 10px;
+}
+.profile {
+    width: 95%;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 37px;
+}
+
+.name {
+    background: linear-gradient(173.91deg, #981575 4.82%, #E22C5E 100%);
+    border-radius: 23px;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+.name h5 {
+    font-size: 34px;
+    color: #fff;
+}
+.profile .row {
+    background-color: #fff;
+    border-radius: 15px;
+    margin-top: 35px;
+    margin-left: 0px;
+    width: 100%;
+    padding: 27px;
+    margin-top: 15px;
+}
+.profile .row .col-lg-6 span {
+    font-size: 20px;
+}
+.profile .row .col-lg-6 strong {
+    font-size: 19px;
+}
+
+img.logo_login {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.email_verify_page {
+    min-height: 660px;
+}
+#dataTable_length {
+    display: none;
+}
+
+.sm-img {
+    height: 115px;
+    cursor: pointer;
+}
+
+.carousel-item img {
+    height: 479px;
+    width: auto !important;
+    margin: 0 auto;
+}
+a.carousel-control-prev, .carousel-control-next {
+    background: linear-gradient(173.91deg, #981575 4.82%, #E22C5E 100%);
+}
+.carousel-item.text-center {
+    background: rgba(152, 21, 117, 0.3);
+}
+
+
+#forgot-password.text-light{
+    color: #525f7f !important
+}
+.show-password, .show-password-conf {
+    position: absolute;
+    right: 5px;
+    top: 12px;
+    cursor: pointer;
+    z-index: 9;
+}
+.hide{
+    display: none;
+}
+.alert-custom.alert-danger {
+    background-color: #f00;
+    border-color: #f00;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.alert{
+    text-transform: capitalize;
+}
+span.invalid-feedback{
+    text-transform: capitalize;
+}
+
+.img-listing {
+    height: 80px !important;
+}
+
+.error-help-block {
+    color: #d94b4b !important;
+}
+
+thead th {
+    font-weight: bold !important;
+}
+.gender_group {
+    transform: scale(1.5) !important;
+}
